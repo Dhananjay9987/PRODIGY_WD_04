@@ -1,4 +1,3 @@
-# Personal-Portfolio-using-html-css-and-javascript
 # Personal Portfolio
 
 Welcome to my personal portfolio! This portfolio showcases my skills, projects, and experiences as a developer. It is designed to give you a comprehensive view of my work and abilities.
